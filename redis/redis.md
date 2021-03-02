@@ -1,1 +1,0 @@
-hello my_redis
